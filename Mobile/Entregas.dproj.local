@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/11/16 11:08:17.000.563,=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/16 12:50:48.000.217,=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/07 19:53:06.000.815,=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/07 19:53:58.000.445,C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.fmx=D:\Entregas\Mobile\UnitPrincipal.fmx</Transaction>
+    <Transaction>2022/05/07 19:53:58.000.445,C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Entregas\Mobile\UnitPrincipal.pas</Transaction>
+    <Transaction>2022/05/07 19:54:05.000.125,C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Entregas\Mobile\Entregas.dproj</Transaction>
+    <Transaction>2022/05/08 10:18:45.000.011,=D:\Entregas\Mobile\Units\uFunctions.pas</Transaction>
+    <Transaction>2022/05/08 10:24:06.000.831,=D:\Entregas\Mobile\Units\uLoading.pas</Transaction>
+    <Transaction>2022/05/08 17:16:54.000.012,=D:\Entregas\Mobile\Unit1.pas</Transaction>
+    <Transaction>2022/05/08 17:17:27.000.367,D:\Entregas\Mobile\Unit1.pas=D:\Entregas\Mobile\UnitNovaRemessa.pas</Transaction>
+    <Transaction>2022/05/08 17:17:27.000.367,D:\Entregas\Mobile\Unit1.fmx=D:\Entregas\Mobile\UnitNovaRemessa.fmx</Transaction>
+    <Transaction>2022/05/08 17:36:21.000.932,=D:\Entregas\Mobile\Unit1.pas</Transaction>
+    <Transaction>2022/05/08 17:36:40.000.073,D:\Entregas\Mobile\Unit1.pas=D:\Entregas\Mobile\UnitStatusRemessa.pas</Transaction>
+    <Transaction>2022/05/08 17:36:40.000.073,D:\Entregas\Mobile\Unit1.fmx=D:\Entregas\Mobile\UnitStatusRemessa.fmx</Transaction>
+    <Transaction>2022/05/12 09:28:21.000.774,=D:\Entregas\Mobile\Unit1.pas</Transaction>
+    <Transaction>2022/05/12 09:28:33.000.025,D:\Entregas\Mobile\Units\uSession.pas=D:\Entregas\Mobile\Unit1.pas</Transaction>
+    <Transaction>2022/05/12 09:35:23.000.674,=D:\Entregas\Mobile\Unit1.pas</Transaction>
+    <Transaction>2022/05/12 09:36:05.000.784,D:\Entregas\Mobile\DataModule\DataModule.Remessa.pas=D:\Entregas\Mobile\Unit1.pas</Transaction>
+    <Transaction>2022/05/12 09:36:05.000.784,D:\Entregas\Mobile\DataModule\DataModule.Remessa.dfm=D:\Entregas\Mobile\Unit1.dfm</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<PMacMini iOSSimulator="iPhone5"/>
+		<NoProfile Android="" Android64=""/>
+	</ActiveMobileDevice>
+</BorlandProject>

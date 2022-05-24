@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/11/16 11:08:17.000.563,=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/16 12:50:48.000.217,=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/10 11:30:12.000.438,=C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/10 11:31:31.000.253,C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.fmx=D:\Entregas\ServerHorse\UnitPrincipal.fmx</Transaction>
+    <Transaction>2022/05/10 11:31:31.000.253,C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Entregas\ServerHorse\UnitPrincipal.pas</Transaction>
+    <Transaction>2022/05/10 11:31:37.000.223,C:\Users\INTEL\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Entregas\ServerHorse\Server.dproj</Transaction>
+    <Transaction>2022/05/10 11:33:09.000.903,=D:\Entregas\ServerHorse\Unit1.pas</Transaction>
+    <Transaction>2022/05/10 11:34:11.000.801,D:\Entregas\ServerHorse\Unit1.dfm=D:\Entregas\ServerHorse\DataModule\DataModule.Global.dfm</Transaction>
+    <Transaction>2022/05/10 11:34:11.000.801,D:\Entregas\ServerHorse\Unit1.pas=D:\Entregas\ServerHorse\DataModule\DataModule.Global.pas</Transaction>
+    <Transaction>2022/05/10 11:48:04.000.444,=D:\Entregas\ServerHorse\Unit1.pas</Transaction>
+    <Transaction>2022/05/10 11:48:49.000.772,D:\Entregas\ServerHorse\Unit1.pas=D:\Entregas\ServerHorse\DAO\DAO.Remessa.pas</Transaction>
+    <Transaction>2022/05/10 14:41:25.000.352,=D:\Entregas\ServerHorse\Unit1.pas</Transaction>
+    <Transaction>2022/05/10 14:42:15.000.092,D:\Entregas\ServerHorse\Unit1.pas=D:\Entregas\ServerHorse\Controller\Controllers.Remessa.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<PMacMini iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
